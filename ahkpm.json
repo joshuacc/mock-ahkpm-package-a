@@ -1,0 +1,16 @@
+{
+  "name": "mock-ahkpm-package-a",
+  "version": "0.0.1",
+  "description": "mock package for integration testing",
+  "repository": "",
+  "website": "",
+  "license": "UNLICENSED",
+  "issueTracker": "",
+  "author": {
+    "name": "",
+    "email": "",
+    "website": ""
+  },
+  "dependencies": {
+  }
+}
