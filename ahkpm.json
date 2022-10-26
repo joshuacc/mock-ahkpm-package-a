@@ -12,5 +12,6 @@
     "website": ""
   },
   "dependencies": {
+    "github.com/joshuacc/mock-ahkpm-package-b": "branch:main"
   }
 }
